@@ -37,3 +37,10 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
 )&nbsp;
 
+<!-- BOOTSTRAP -->
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
+<!-- MATERIAL UI -->
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
